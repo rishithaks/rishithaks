@@ -15,3 +15,12 @@
 ---
 [![](https://komarev.com/ghpvc/?username=rishithaks&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🏆 Certifications
+
+### National Quiz Competition on Consumer Protection Law 2026
+
+Participated in the National Quiz Competition on Consumer Protection Law 2026, organized by the Chair on Consumer Law, NLU Delhi and MyGov.
+
+- Certificate: Certificate of Participation
+- Year: 2026
+
