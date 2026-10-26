@@ -18,14 +18,16 @@
 ---
 [![](https://komarev.com/ghpvc/?username=rishithaks&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
 
 ## 🏆 Certifications
 
-### National Quiz Competition on Consumer Protection Law 2026
+### 💻 C for Everyone, Part 1: Programming Fundamentals
+Completed an online course offered through Coursera and authorized by the University of California, Santa Cruz, covering fundamental concepts of C programming.
 
+### 🌐 Gitopia
+Completed the Gitopia quiz and gained practical awareness of Git and GitHub.
+
+### ⚖️ National Quiz Competition on Consumer Protection Law 2026
 Participated in the National Quiz Competition on Consumer Protection Law 2026, organized by the Chair on Consumer Law, NLU Delhi and MyGov.
-
-- Certificate: Certificate of Participation
-- Year: 2026
 
