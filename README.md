@@ -22,7 +22,7 @@
 
 ## 🏆 Certifications
 
-### 💻 C for Everyone, Part 1: Programming Fundamentals
+### 💻 C for Everyone, Part 1 and Part 2 : Programming Fundamentals
 Completed an online course offered through Coursera and authorized by the University of California, Santa Cruz, covering fundamental concepts of C programming.
 
 ### 🌐 Gitopia
